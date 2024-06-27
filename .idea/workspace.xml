@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d467a50-f104-44cc-b61d-f8e44d8978ac" name="更改" comment="" />
+    <list default="true" id="6d467a50-f104-44cc-b61d-f8e44d8978ac" name="更改" comment="Update TestController with &quot;//测试api&quot; comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="trail" />
+        <entry key="$PROJECT_DIR$" value="91ca829f5a9f978dd14749af75fb6b9cbb49abda" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,6 +83,23 @@
       <workItem from="1718108244206" duration="277000" />
       <workItem from="1718108543846" duration="344000" />
     </task>
+    <task id="LOCAL-00001" summary="Update TestController with &quot;//测试api&quot; comment">
+      <option name="closed" value="true" />
+      <created>1719496415095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719496415095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update TestController with &quot;//测试api&quot; comment">
+      <option name="closed" value="true" />
+      <created>1719496474813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719496474813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -101,6 +120,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update TestController with &quot;//测试api&quot; comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update TestController with &quot;//测试api&quot; comment" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
